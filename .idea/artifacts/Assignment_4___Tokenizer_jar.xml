@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assignment 4 - Tokenizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment_4___Tokenizer_jar</output-path>
+    <root id="archive" name="Assignment 4 - Tokenizer.jar">
+      <element id="module-output" name="Assignment 4 - Tokenizer" />
+    </root>
+  </artifact>
+</component>
